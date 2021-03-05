@@ -1,5 +1,8 @@
 # posh-git Release History
 
+## 1.0.0-beta6 - March 5, 2021
+- Testing building process
+
 ## 1.0.0-beta5 - February 14, 2021
 
 ### Added
